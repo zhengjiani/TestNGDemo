@@ -43,4 +43,5 @@
 ``mvn -f pom.xml clean test -DxmlFileName=testting.xml``
 
 ![testng1.png](https://github.com/zhengjiani/markdownImages/blob/master/testng/testng1.PNG?raw=true)
-
+![testng2.png](https://github.com/zhengjiani/markdownImages/blob/master/testng/testng2.PNG?raw=true)
+![testng3.png](https://github.com/zhengjiani/markdownImages/blob/master/testng/testng3.PNG?raw=true)
