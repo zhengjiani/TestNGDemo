@@ -41,3 +41,6 @@
     </suite>
 使用maven命令执行testng<br>
 ``mvn -f pom.xml clean test -DxmlFileName=testting.xml``
+
+![testng1.png](https://github.com/zhengjiani/markdownImages/blob/master/testng/testng1.PNG?raw=true)
+
